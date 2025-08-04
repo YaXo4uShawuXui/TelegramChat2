@@ -18,3 +18,5 @@ requests==2.32.4
 urllib3==2.5.0
 wheel==0.45.1
 yarl==1.20.1
+flask
+python-dotenv==1.0.1
